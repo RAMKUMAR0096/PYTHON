@@ -1,5 +1,4 @@
 import turtle
-import winsound
 
 score_a = 0
 score_b = 0
